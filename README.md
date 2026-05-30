@@ -13,6 +13,13 @@ The application allows users to visualize Git repository information such as:
 
 ---
 
+## Project WireFrame 
+
+```
+https://app.eraser.io/workspace/VY7I0TU8HY11OcdXhUFs?origin=share
+```
+
+
 ## 🚀 Problem Statement
 
 Developers often use terminal commands such as:
